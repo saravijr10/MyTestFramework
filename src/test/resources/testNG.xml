@@ -1,0 +1,12 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<suite name="MyFramework" parallel="classes" thread-count="2"  >
+    <test name="FunctionTest" >
+        <parameter name="browser" value="firefox"/>
+        <parameter name="os" value="Windows"/>
+        <classes>
+            <class name="test.loginPageTest.LoginTest" />
+            <class name="test.homePageTest.HomeTest" />
+        </classes>
+    </test>
+</suite>

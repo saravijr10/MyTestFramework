@@ -1,0 +1,1 @@
+{"uuid":"35bd4bff-a8fc-4f27-b4e6-389d8a47a611","name":"MyFramework","children":["d7654373-5172-4107-bf44-99179886f3b2"],"befores":[{"name":"loadConfig","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1748073726307,"stop":1748073726314}],"afters":[],"start":1748073726282,"stop":1748073764908}

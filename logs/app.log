@@ -1,0 +1,174 @@
+2025-05-24 14:16:25 [main] INFO  BaseClass - config.properties file loaded
+2025-05-24 14:16:30 [TestNG-test-FunctionTest-2] INFO  BaseClass - chorme browser launched
+2025-05-24 14:16:31 [TestNG-test-FunctionTest-1] INFO  BaseClass - chorme browser launched
+2025-05-24 14:16:34 [TestNG-test-FunctionTest-2] INFO  BaseClass - url loaded into browser
+2025-05-24 14:16:34 [TestNG-test-FunctionTest-1] INFO  BaseClass - url loaded into browser
+2025-05-24 14:16:37 [TestNG-test-FunctionTest-1] INFO  BaseClass - browser closed
+2025-05-24 14:16:39 [TestNG-test-FunctionTest-1] INFO  BaseClass - chorme browser launched
+2025-05-24 14:16:44 [TestNG-test-FunctionTest-1] INFO  BaseClass - url loaded into browser
+2025-05-24 14:16:44 [TestNG-test-FunctionTest-2] INFO  BaseClass - browser closed
+2025-05-24 14:16:46 [TestNG-test-FunctionTest-2] INFO  BaseClass - chorme browser launched
+2025-05-24 14:16:49 [TestNG-test-FunctionTest-1] INFO  BaseClass - browser closed
+2025-05-24 14:16:50 [TestNG-test-FunctionTest-2] INFO  BaseClass - url loaded into browser
+2025-05-24 14:17:04 [TestNG-test-FunctionTest-2] INFO  BaseClass - browser closed
+2025-05-24 14:18:35 [main] INFO  BaseClass - config.properties file loaded
+2025-05-24 14:18:38 [TestNG-test-FunctionTest-1] INFO  BaseClass - chorme browser launched
+2025-05-24 14:18:38 [TestNG-test-FunctionTest-2] INFO  BaseClass - chorme browser launched
+2025-05-24 14:18:41 [TestNG-test-FunctionTest-1] INFO  BaseClass - url loaded into browser
+2025-05-24 14:18:42 [TestNG-test-FunctionTest-2] INFO  BaseClass - url loaded into browser
+2025-05-24 14:18:44 [TestNG-test-FunctionTest-1] INFO  BaseClass - browser closed
+2025-05-24 14:18:46 [TestNG-test-FunctionTest-1] INFO  BaseClass - chorme browser launched
+2025-05-24 14:18:50 [TestNG-test-FunctionTest-1] INFO  BaseClass - url loaded into browser
+2025-05-24 14:18:51 [TestNG-test-FunctionTest-2] INFO  BaseClass - browser closed
+2025-05-24 14:18:53 [TestNG-test-FunctionTest-2] INFO  BaseClass - chorme browser launched
+2025-05-24 14:18:56 [TestNG-test-FunctionTest-2] INFO  BaseClass - url loaded into browser
+2025-05-24 14:18:57 [TestNG-test-FunctionTest-1] INFO  BaseClass - browser closed
+2025-05-24 14:19:10 [TestNG-test-FunctionTest-2] INFO  BaseClass - browser closed
+2025-05-24 14:20:20 [main] INFO  BaseClass - config.properties file loaded
+2025-05-24 14:20:22 [TestNG-test-FunctionTest-1] INFO  BaseClass - chorme browser launched
+2025-05-24 14:20:22 [TestNG-test-FunctionTest-2] INFO  BaseClass - chorme browser launched
+2025-05-24 14:20:26 [TestNG-test-FunctionTest-1] INFO  BaseClass - url loaded into browser
+2025-05-24 14:20:26 [TestNG-test-FunctionTest-2] INFO  BaseClass - url loaded into browser
+2025-05-24 14:20:29 [TestNG-test-FunctionTest-1] INFO  BaseClass - browser closed
+2025-05-24 14:20:31 [TestNG-test-FunctionTest-1] INFO  BaseClass - chorme browser launched
+2025-05-24 14:20:34 [TestNG-test-FunctionTest-1] INFO  BaseClass - url loaded into browser
+2025-05-24 14:20:36 [TestNG-test-FunctionTest-2] INFO  BaseClass - browser closed
+2025-05-24 14:20:38 [TestNG-test-FunctionTest-2] INFO  BaseClass - chorme browser launched
+2025-05-24 14:20:39 [TestNG-test-FunctionTest-1] INFO  BaseClass - browser closed
+2025-05-24 14:20:44 [TestNG-test-FunctionTest-2] INFO  BaseClass - url loaded into browser
+2025-05-24 14:21:00 [TestNG-test-FunctionTest-2] INFO  BaseClass - browser closed
+2025-05-24 14:32:07 [main] INFO  BaseClass - config.properties file loaded
+2025-05-24 14:32:59 [main] INFO  BaseClass - config.properties file loaded
+2025-05-24 14:33:12 [main] INFO  BaseClass - config.properties file loaded
+2025-05-24 14:34:01 [main] INFO  BaseClass - config.properties file loaded
+2025-05-24 14:34:08 [TestNG-test-FunctionTest-2] INFO  BaseClass - firefox browser launched
+2025-05-24 14:34:08 [TestNG-test-FunctionTest-1] INFO  BaseClass - firefox browser launched
+2025-05-24 14:34:13 [TestNG-test-FunctionTest-1] INFO  BaseClass - url loaded into browser
+2025-05-24 14:34:13 [TestNG-test-FunctionTest-2] INFO  BaseClass - url loaded into browser
+2025-05-24 14:34:21 [TestNG-test-FunctionTest-1] INFO  BaseClass - browser closed
+2025-05-24 14:34:27 [TestNG-test-FunctionTest-1] INFO  BaseClass - firefox browser launched
+2025-05-24 14:34:28 [TestNG-test-FunctionTest-2] INFO  BaseClass - browser closed
+2025-05-24 14:34:31 [TestNG-test-FunctionTest-1] INFO  BaseClass - url loaded into browser
+2025-05-24 14:34:34 [TestNG-test-FunctionTest-2] INFO  BaseClass - firefox browser launched
+2025-05-24 14:34:38 [TestNG-test-FunctionTest-1] INFO  BaseClass - browser closed
+2025-05-24 14:34:40 [TestNG-test-FunctionTest-2] INFO  BaseClass - url loaded into browser
+2025-05-24 14:34:56 [TestNG-test-FunctionTest-2] INFO  BaseClass - browser closed
+2025-05-24 14:39:04 [main] INFO  BaseClass - config.properties file loaded
+2025-05-24 14:39:07 [TestNG-test-ChromeTest-2] INFO  BaseClass - chorme browser launched
+2025-05-24 14:39:07 [TestNG-test-ChromeTest-1] INFO  BaseClass - chorme browser launched
+2025-05-24 14:39:12 [TestNG-test-ChromeTest-1] INFO  BaseClass - url loaded into browser
+2025-05-24 14:39:12 [TestNG-test-ChromeTest-2] INFO  BaseClass - url loaded into browser
+2025-05-24 14:39:27 [TestNG-test-ChromeTest-2] INFO  BaseClass - browser closed
+2025-05-24 14:39:29 [TestNG-test-ChromeTest-2] INFO  BaseClass - chorme browser launched
+2025-05-24 14:39:32 [TestNG-test-ChromeTest-1] INFO  BaseClass - browser closed
+2025-05-24 14:39:34 [TestNG-test-ChromeTest-2] INFO  BaseClass - url loaded into browser
+2025-05-24 14:39:34 [TestNG-test-ChromeTest-1] INFO  BaseClass - chorme browser launched
+2025-05-24 14:39:38 [TestNG-test-ChromeTest-1] INFO  BaseClass - url loaded into browser
+2025-05-24 14:39:39 [TestNG-test-ChromeTest-2] INFO  BaseClass - browser closed
+2025-05-24 14:39:52 [TestNG-test-ChromeTest-1] INFO  BaseClass - browser closed
+2025-05-24 14:40:02 [TestNG-test-EdgeTest-1] INFO  BaseClass - edge browser launched
+2025-05-24 14:40:04 [TestNG-test-EdgeTest-2] INFO  BaseClass - edge browser launched
+2025-05-24 14:40:08 [TestNG-test-EdgeTest-1] INFO  BaseClass - url loaded into browser
+2025-05-24 14:40:08 [TestNG-test-EdgeTest-2] INFO  BaseClass - url loaded into browser
+2025-05-24 14:40:11 [TestNG-test-EdgeTest-2] INFO  BaseClass - browser closed
+2025-05-24 14:40:16 [TestNG-test-EdgeTest-2] INFO  BaseClass - edge browser launched
+2025-05-24 14:40:17 [TestNG-test-EdgeTest-1] INFO  BaseClass - browser closed
+2025-05-24 14:40:18 [TestNG-test-EdgeTest-2] INFO  BaseClass - url loaded into browser
+2025-05-24 14:40:20 [TestNG-test-EdgeTest-1] INFO  BaseClass - edge browser launched
+2025-05-24 14:40:24 [TestNG-test-EdgeTest-1] INFO  BaseClass - url loaded into browser
+2025-05-24 14:40:25 [TestNG-test-EdgeTest-2] INFO  BaseClass - browser closed
+2025-05-24 14:40:41 [TestNG-test-EdgeTest-1] INFO  BaseClass - browser closed
+2025-05-24 14:40:47 [TestNG-test-FirefoxTest-2] INFO  BaseClass - firefox browser launched
+2025-05-24 14:40:48 [TestNG-test-FirefoxTest-1] INFO  BaseClass - firefox browser launched
+2025-05-24 14:40:52 [TestNG-test-FirefoxTest-1] INFO  BaseClass - url loaded into browser
+2025-05-24 14:40:55 [TestNG-test-FirefoxTest-2] INFO  BaseClass - url loaded into browser
+2025-05-24 14:41:00 [TestNG-test-FirefoxTest-2] INFO  BaseClass - browser closed
+2025-05-24 14:41:04 [TestNG-test-FirefoxTest-1] INFO  BaseClass - browser closed
+2025-05-24 14:41:08 [TestNG-test-FirefoxTest-2] INFO  BaseClass - firefox browser launched
+2025-05-24 14:41:11 [TestNG-test-FirefoxTest-1] INFO  BaseClass - firefox browser launched
+2025-05-24 14:41:13 [TestNG-test-FirefoxTest-2] INFO  BaseClass - url loaded into browser
+2025-05-24 14:41:15 [TestNG-test-FirefoxTest-1] INFO  BaseClass - url loaded into browser
+2025-05-24 14:41:20 [TestNG-test-FirefoxTest-2] INFO  BaseClass - browser closed
+2025-05-24 14:41:31 [TestNG-test-FirefoxTest-1] INFO  BaseClass - browser closed
+2025-05-24 16:57:48 [main] INFO  BaseClass - config.properties file loaded
+2025-05-24 16:57:55 [TestNG-test-FunctionTest-1] INFO  BaseClass - firefox browser launched
+2025-05-24 16:57:55 [TestNG-test-FunctionTest-2] INFO  BaseClass - firefox browser launched
+2025-05-24 16:57:59 [TestNG-test-FunctionTest-2] INFO  BaseClass - url loaded into browser
+2025-05-24 16:57:59 [TestNG-test-FunctionTest-1] INFO  BaseClass - url loaded into browser
+2025-05-24 16:58:06 [TestNG-test-FunctionTest-1] INFO  BaseClass - browser closed
+2025-05-24 16:58:12 [TestNG-test-FunctionTest-2] INFO  BaseClass - browser closed
+2025-05-24 16:58:13 [TestNG-test-FunctionTest-1] INFO  BaseClass - firefox browser launched
+2025-05-24 16:58:18 [TestNG-test-FunctionTest-1] INFO  BaseClass - url loaded into browser
+2025-05-24 16:58:19 [TestNG-test-FunctionTest-2] INFO  BaseClass - firefox browser launched
+2025-05-24 16:58:23 [TestNG-test-FunctionTest-2] INFO  BaseClass - url loaded into browser
+2025-05-24 16:58:27 [TestNG-test-FunctionTest-1] INFO  BaseClass - browser closed
+2025-05-24 16:58:38 [TestNG-test-FunctionTest-2] INFO  BaseClass - browser closed
+2025-05-24 17:38:59 [main] INFO  BaseClass - config.properties file loaded
+2025-05-24 17:39:06 [TestNG-test-FunctionTest-1] INFO  BaseClass - firefox browser launched
+2025-05-24 17:39:06 [TestNG-test-FunctionTest-2] INFO  BaseClass - firefox browser launched
+2025-05-24 17:39:10 [TestNG-test-FunctionTest-1] INFO  BaseClass - url loaded into browser
+2025-05-24 17:39:11 [TestNG-test-FunctionTest-2] INFO  BaseClass - url loaded into browser
+2025-05-24 17:39:20 [TestNG-test-FunctionTest-1] INFO  BaseClass - browser closed
+2025-05-24 17:39:27 [TestNG-test-FunctionTest-1] INFO  BaseClass - firefox browser launched
+2025-05-24 17:39:28 [TestNG-test-FunctionTest-2] INFO  BaseClass - browser closed
+2025-05-24 17:39:32 [TestNG-test-FunctionTest-1] INFO  BaseClass - url loaded into browser
+2025-05-24 17:39:36 [TestNG-test-FunctionTest-2] INFO  BaseClass - firefox browser launched
+2025-05-24 17:39:39 [TestNG-test-FunctionTest-2] INFO  BaseClass - url loaded into browser
+2025-05-24 17:39:39 [TestNG-test-FunctionTest-1] INFO  BaseClass - browser closed
+2025-05-24 17:39:56 [TestNG-test-FunctionTest-2] INFO  BaseClass - browser closed
+2025-05-24 19:35:00 [main] INFO  BaseClass - config.properties file loaded
+2025-05-24 19:35:09 [TestNG-test-FunctionTest-1] INFO  BaseClass - firefox browser launched
+2025-05-24 19:35:10 [TestNG-test-FunctionTest-2] INFO  BaseClass - firefox browser launched
+2025-05-24 19:35:13 [TestNG-test-FunctionTest-1] INFO  BaseClass - url loaded into browser
+2025-05-24 19:35:14 [TestNG-test-FunctionTest-2] INFO  BaseClass - url loaded into browser
+2025-05-24 19:35:16 [TestNG-test-FunctionTest-1] INFO  BaseClass - browser closed
+2025-05-24 19:35:21 [TestNG-test-FunctionTest-2] INFO  BaseClass - browser closed
+2025-05-24 19:35:24 [TestNG-test-FunctionTest-1] INFO  BaseClass - firefox browser launched
+2025-05-24 19:35:28 [TestNG-test-FunctionTest-2] INFO  BaseClass - firefox browser launched
+2025-05-24 19:35:29 [TestNG-test-FunctionTest-1] INFO  BaseClass - url loaded into browser
+2025-05-24 19:35:32 [TestNG-test-FunctionTest-2] INFO  BaseClass - url loaded into browser
+2025-05-24 19:35:34 [TestNG-test-FunctionTest-1] INFO  BaseClass - browser closed
+2025-05-24 19:35:48 [TestNG-test-FunctionTest-2] INFO  BaseClass - browser closed
+2025-05-25 06:00:43 [main] INFO  BaseClass - config.properties file loaded
+2025-05-25 06:01:27 [main] INFO  BaseClass - config.properties file loaded
+2025-05-25 06:03:04 [main] INFO  BaseClass - config.properties file loaded
+2025-05-25 06:06:34 [main] INFO  BaseClass - config.properties file loaded
+2025-05-25 06:09:34 [main] INFO  BaseClass - config.properties file loaded
+2025-05-25 06:09:41 [TestNG-test-FunctionTest-1] INFO  BaseClass - firefox browser launched
+2025-05-25 06:09:41 [TestNG-test-FunctionTest-2] INFO  BaseClass - firefox browser launched
+2025-05-25 06:09:45 [TestNG-test-FunctionTest-1] INFO  BaseClass - url loaded into browser
+2025-05-25 06:09:46 [TestNG-test-FunctionTest-2] INFO  BaseClass - url loaded into browser
+2025-05-25 06:09:58 [TestNG-test-FunctionTest-1] INFO  BaseClass - browser closed
+2025-05-25 06:10:00 [TestNG-test-FunctionTest-2] INFO  BaseClass - browser closed
+2025-05-25 06:10:05 [TestNG-test-FunctionTest-1] INFO  BaseClass - firefox browser launched
+2025-05-25 06:10:06 [TestNG-test-FunctionTest-2] INFO  BaseClass - firefox browser launched
+2025-05-25 06:10:09 [TestNG-test-FunctionTest-1] INFO  BaseClass - url loaded into browser
+2025-05-25 06:10:10 [TestNG-test-FunctionTest-2] INFO  BaseClass - url loaded into browser
+2025-05-25 06:10:13 [TestNG-test-FunctionTest-1] INFO  BaseClass - browser closed
+2025-05-25 06:10:33 [TestNG-test-FunctionTest-2] INFO  BaseClass - browser closed
+2025-05-25 06:10:52 [main] INFO  BaseClass - config.properties file loaded
+2025-05-25 06:10:57 [TestNG-test-FunctionTest-2] INFO  BaseClass - chrome browser launched
+2025-05-25 06:10:57 [TestNG-test-FunctionTest-1] INFO  BaseClass - chrome browser launched
+2025-05-25 06:11:00 [TestNG-test-FunctionTest-1] INFO  BaseClass - url loaded into browser
+2025-05-25 06:11:01 [TestNG-test-FunctionTest-2] INFO  BaseClass - url loaded into browser
+2025-05-25 06:11:13 [TestNG-test-FunctionTest-1] INFO  BaseClass - browser closed
+2025-05-25 06:11:14 [TestNG-test-FunctionTest-2] INFO  BaseClass - browser closed
+2025-05-25 06:11:15 [TestNG-test-FunctionTest-1] INFO  BaseClass - chrome browser launched
+2025-05-25 06:11:16 [TestNG-test-FunctionTest-2] INFO  BaseClass - chrome browser launched
+2025-05-25 06:11:18 [TestNG-test-FunctionTest-1] INFO  BaseClass - url loaded into browser
+2025-05-25 06:11:19 [TestNG-test-FunctionTest-2] INFO  BaseClass - url loaded into browser
+2025-05-25 06:11:21 [TestNG-test-FunctionTest-1] INFO  BaseClass - browser closed
+2025-05-25 06:11:41 [TestNG-test-FunctionTest-2] INFO  BaseClass - browser closed
+2025-05-25 12:02:34 [main] INFO  BaseClass - config.properties file loaded
+2025-05-25 12:02:40 [TestNG-test-FunctionTest-1] INFO  BaseClass - chrome browser launched
+2025-05-25 12:02:40 [TestNG-test-FunctionTest-2] INFO  BaseClass - chrome browser launched
+2025-05-25 12:02:43 [TestNG-test-FunctionTest-2] INFO  BaseClass - url loaded into browser
+2025-05-25 12:02:44 [TestNG-test-FunctionTest-1] INFO  BaseClass - url loaded into browser
+2025-05-25 12:02:48 [TestNG-test-FunctionTest-1] INFO  BaseClass - browser closed
+2025-05-25 12:02:50 [TestNG-test-FunctionTest-2] INFO  BaseClass - browser closed
+2025-05-25 12:02:50 [TestNG-test-FunctionTest-1] INFO  BaseClass - chrome browser launched
+2025-05-25 12:02:52 [TestNG-test-FunctionTest-2] INFO  BaseClass - chrome browser launched
+2025-05-25 12:02:54 [TestNG-test-FunctionTest-1] INFO  BaseClass - url loaded into browser
+2025-05-25 12:02:55 [TestNG-test-FunctionTest-2] INFO  BaseClass - url loaded into browser
+2025-05-25 12:02:58 [TestNG-test-FunctionTest-1] INFO  BaseClass - browser closed
+2025-05-25 12:03:09 [TestNG-test-FunctionTest-2] INFO  BaseClass - browser closed
