@@ -35,6 +35,12 @@
     <artifactId>webdrivermanager</artifactId>
     <version>6.1.0</version>
   </dependency>
+    <!-- https://mvnrepository.com/artifact/org.projectlombok/lombok -->
+    <dependency>
+      <groupId>org.projectlombok</groupId>
+      <artifactId>lombok</artifactId>
+      <version>1.18.36</version>
+    </dependency>
   <!-- https://mvnrepository.com/artifact/io.qameta.allure/allure-testng -->
   <dependency>
     <groupId>io.qameta.allure</groupId>
